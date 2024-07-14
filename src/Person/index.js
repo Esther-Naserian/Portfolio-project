@@ -7,7 +7,7 @@ const Person= () => {
   return (
     <div className="portfolio-page">
       <div className="header">
-        <h1>Esther Naserian</h1>
+        <h1>Trecy Malonza</h1>
         <p>Software Engineer</p>
       </div>
       <div className="content">
